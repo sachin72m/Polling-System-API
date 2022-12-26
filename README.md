@@ -1,4 +1,4 @@
-# polling-api
+* Polling-API
 
 This is a backend project intended to used at platforms where polling/voting type of situation is expected. With this API you can
 - Create your own questions
@@ -8,7 +8,7 @@ This is a backend project intended to used at platforms where polling/voting typ
 - Delete Options
 - Add Votes to the options
 
-# Important endpoints of the API
+* Important endpoints of the API
 - Create your own questions: https://qustion-polling-api.herokuapp.com/question/create
 - Delete the questions: https://qustion-polling-api.herokuapp.com/question/:id/delete
 - Add Options to the questions: https://qustion-polling-api.herokuapp.com/question/:id/options/create
@@ -16,10 +16,8 @@ This is a backend project intended to used at platforms where polling/voting typ
 - Add Votes to the options: https://qustion-polling-api.herokuapp.com/option/:id/delete
 - Delete Options: https://qustion-polling-api.herokuapp.com/option/:id/add_vote
 
-# Important Link:
 
-- Hosting Link: https://qustion-polling-api.herokuapp.com/
 
-# Tech Stack:
+* Tech Stack:
 - NodeJS
 - MongoDB
